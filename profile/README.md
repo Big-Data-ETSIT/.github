@@ -17,14 +17,14 @@
 
 ## 2. Roadmap
 
-- Laboratorio 1: programación funcional con scala.
-- Laboratorio 2: gestor de paquetes sbt.
-- Laboratorio 3: patrón pub/sub con Kafka.
-- Laboratorio 4: procesamiento en batch con Apache Spark.
-- Laboratorio 5: procesamiento en tiempo real con Apache Spark y despliegue en Docker.
-- Laboratorio 6: ingesta de datos siguiendo el patrón Extract-Transform-Load con Apache Nifi.
-- Laboratorio 7: gestión del ciclo de vida de Machine Learning con MLOps.
-- Laboratorio 8: almacenamiento, búsqueda, y visualización de datos con ELK.
-- Laboratorio final: todo en conjunto a través de un predictor de vuelos.
+- [Laboratorio 1](https://github.com/Big-Data-ETSIT/ej_clase_scala_2023_sol): programación funcional con scala.
+- [Laboratorio 2](https://github.com/Big-Data-ETSIT/P3-sbt-example): gestor de paquetes sbt.
+- [Laboratorio 3](https://github.com/Big-Data-ETSIT/P4_KAFKA): patrón pub/sub con Kafka.
+- [Laboratorio 4](https://github.com/Big-Data-ETSIT/P5_spark_batch): procesamiento en batch con Apache Spark.
+- [Laboratorio 5](https://github.com/Big-Data-ETSIT/P6_spark_streaming_docker): procesamiento en tiempo real con Apache Spark y despliegue en Docker.
+- [Laboratorio 6](https://github.com/Big-Data-ETSIT/P7_NIFI): ingesta de datos siguiendo el patrón Extract-Transform-Load con Apache Nifi.
+- [Laboratorio 7](https://github.com/Big-Data-ETSIT/P8_MLflow): gestión del ciclo de vida de Machine Learning con MLOps.
+- [Laboratorio 8](https://github.com/Big-Data-ETSIT/P9_ELK): almacenamiento, búsqueda, y visualización de datos con ELK.
+- L[aboratorio final](https://github.com/Big-Data-ETSIT/practica_creativa): práctica creativa en conjunto a través de un predictor de vuelos.
 
 
